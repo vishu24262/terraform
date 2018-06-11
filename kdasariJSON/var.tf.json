@@ -1,0 +1,50 @@
+{
+"variable": {
+    "vsphere_user": {
+	  "default": "SWX\\hpdevoo_svc",
+      "description": "Shows the User"
+    }
+  },
+"variable": {
+    "vsphere_password": {
+	  "default": "7aErLvy2UEeNuR",
+      "description": "Password its hidden"
+    }
+  },
+"variable": {
+    "vsphere_server": {
+	  "default": "hpdev-vc01.solutionworks.com",
+      "description": "Shows server information"
+    }
+  },
+"variable": {
+    "vsphere_datacenter": {
+	  "default": "HP-Dev",
+      "description": "Datacenter"
+    }
+  },
+"variable": {
+    "vsphere_datastore": {
+	  "default": "HPDEV-Tenants_Datastore02",
+      "description": "Datastore"
+    }
+  },
+"variable": {
+    "vsphere_network": {
+	  "default": "HPII_CSDev_VM",
+      "description": "Network"
+    }
+  },
+"variable": {
+    "vsphere_virtual_machine_template": {
+	  "default": "hp-ddirhel-temp1",
+      "description": "Tempalte"
+    }
+  },
+"variable": {
+    "vsphere_resource_pool": {
+	  "default": "Terraformauto",
+      "description": "Resource Pool"
+    }
+  }
+}

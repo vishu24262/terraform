@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+set-cookie: sap-usercontext=sap-client=001; path=/
+set-cookie: SAP_SESSIONID_N01_001=fzdFbvY5zLEg4UVwRhpHfs0qsVVonBHogUgAUFauW7I%3d; path=/
+content-type: application/atom+xml;type=entry; charset=utf-8
+content-length: 1211
+x-csrf-token: 3UYsZeMTEBoI05Cel05BOw==
+dataserviceversion: 2.0
+sap-metadata-last-modified: Tue, 29 May 2018 09:46:50 GMT
+cache-control: no-store, no-cache
+
